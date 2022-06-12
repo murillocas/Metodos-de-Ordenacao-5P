@@ -1,0 +1,19 @@
+.container{
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.algoritmo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 15px;
+}
